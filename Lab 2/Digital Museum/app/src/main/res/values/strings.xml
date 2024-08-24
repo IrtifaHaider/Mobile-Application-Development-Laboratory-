@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Digital Museum</string>
+    <string-array name="museum_sections">
+        <item>Art Gallery</item>
+        <item>History Section</item>
+        <item>Science Exhibits</item>
+    </string-array>
+</resources>
