@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="send">Send Message</string>
+    <string name="hint">Enter a message</string>
+    <string-array name="museum_sections">
+        <item>Art Gallery</item>
+        <item>Eras and Epochs</item>
+        <item>Science Sphere</item>
+    </string-array>
+</resources>
